@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+ttkthemes
+fuzzywuzzy
+python-Levenshtein
